@@ -1,0 +1,25 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="5/2/2016 10:29:49 AM" StartupConfiguration="{F7D3D743-B585-40E6-AA1A-6498564D03C1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Blackjack PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Blackjack" expanded="True">
+            <Node name="Blackjack" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="AssemblyInfo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
